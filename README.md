@@ -1,3 +1,7 @@
-# Exercise Tracker
+# Exercise Tracker Solution 
 
-This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
+## I have solve freecodecamp boilerplate project 
+
+Instruction for building your own project can be found here 
+
+https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
